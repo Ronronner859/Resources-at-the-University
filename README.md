@@ -6,8 +6,8 @@ This is a description.
 
 [折影轻梦 (nexmoe.com)](https://nexmoe.com/)
 
-https://butterfly.js.org/
+一个很好的浏览器主题：https://butterfly.js.org/
 
-https://blinkfox.github.io/friends/
+NO:https://blinkfox.github.io/friends/
 
-https://www.milovetingting.cn/
+NO:https://www.milovetingting.cn/
