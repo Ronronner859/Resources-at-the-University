@@ -1,7 +1,7 @@
 # Resources-at-the-University
 This is a description.
 ## 1.大学学习网站收藏
-  git学习：https://www.liaoxuefeng.com/category/895882450960192
+  git学习：https://www.liaoxuefeng.com
   
   
   
