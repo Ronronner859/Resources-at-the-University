@@ -17,3 +17,7 @@ NO:https://blinkfox.github.io/friends/
 
 NO:https://www.milovetingting.cn/
 
+
+## R语言练习地址
+
+ https://www.heywhale.com/mw/project/6131fb0bbc40120017e9cec7
