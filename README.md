@@ -23,5 +23,7 @@ NO:https://www.milovetingting.cn/
  https://www.heywhale.com/mw/project/6131fb0bbc40120017e9cec7
  
 Data+Science+Insight的博客_CSDN博客-R语言从入门到机器学习,数据科学从0到1,机器学习面试+横扫千军领域博主
+https://habit.blog.csdn.net/?type=blog
 
 statistics+insight的博客_CSDN博客-R语言入门课,Excel入门到精通,数据科学持续学习领域博主
+https://blog.csdn.net/weixin_57242009/category_11632898.html?spm=1001.2014.3001.5482
