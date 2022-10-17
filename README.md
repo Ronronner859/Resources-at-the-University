@@ -18,6 +18,10 @@ NO:https://blinkfox.github.io/friends/
 NO:https://www.milovetingting.cn/
 
 
-## R语言练习地址
-
+## 安利一个R语言的优秀博主及其CSDN专栏：
+博主博客地址：
  https://www.heywhale.com/mw/project/6131fb0bbc40120017e9cec7
+ 
+Data+Science+Insight的博客_CSDN博客-R语言从入门到机器学习,数据科学从0到1,机器学习面试+横扫千军领域博主
+
+statistics+insight的博客_CSDN博客-R语言入门课,Excel入门到精通,数据科学持续学习领域博主
