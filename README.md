@@ -21,6 +21,7 @@ NO:https://www.milovetingting.cn/
 ## 安利一个R语言的优秀博主及其CSDN专栏：
 博主博客地址：
  https://www.heywhale.com/mw/project/6131fb0bbc40120017e9cec7
+ https://www.heywhale.com/home/user/profile/5f0a61d72be199002c073935
  
 Data+Science+Insight的博客_CSDN博客-R语言从入门到机器学习,数据科学从0到1,机器学习面试+横扫千军领域博主
 https://habit.blog.csdn.net/?type=blog
