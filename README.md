@@ -28,3 +28,6 @@ https://habit.blog.csdn.net/?type=blog
 
 statistics+insight的博客_CSDN博客-R语言入门课,Excel入门到精通,数据科学持续学习领域博主
 https://blog.csdn.net/weixin_57242009/category_11632898.html?spm=1001.2014.3001.5482
+
+## 工具
+pdf转word:https://online.rightpdf.com/cn/word-to-pdf
