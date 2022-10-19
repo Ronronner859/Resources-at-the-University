@@ -40,5 +40,5 @@ docsify:https://docsify.js.org/#/zh-cn/
 千帆搜索：https://tg.qianfan.app/
 云盘资源：https://www.aliyundrive.com/drive/
 
-## 观影网
-http://www.aotutu.cn/
+
+
