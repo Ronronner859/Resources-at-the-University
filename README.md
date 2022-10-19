@@ -35,3 +35,7 @@ PDF 转 Markdown 的网址：https://pdf2md.morethan.io/
 
 ## 文档编辑
 docsify:https://docsify.js.org/#/zh-cn/
+
+## 强大的搜索神器
+千帆搜索：https://tg.qianfan.app/
+云盘资源：https://www.aliyundrive.com/drive/
