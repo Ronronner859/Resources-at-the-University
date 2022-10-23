@@ -40,5 +40,7 @@ docsify:https://docsify.js.org/#/zh-cn/
 千帆搜索：https://tg.qianfan.app/
 云盘资源：https://www.aliyundrive.com/drive/
 
-
-
+# 码神
+  https://mszlu.com/
+# 狂神
+https://gitee.com/kuangstudy/kuang_livenote#https://www.bilibili.com/video/BV1DJ411B75F
