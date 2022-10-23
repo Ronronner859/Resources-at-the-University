@@ -44,3 +44,6 @@ docsify:https://docsify.js.org/#/zh-cn/
   https://mszlu.com/
 # 狂神
 https://gitee.com/kuangstudy/kuang_livenote#https://www.bilibili.com/video/BV1DJ411B75F
+
+# 鱼皮
+https://space.bilibili.com/12890453
