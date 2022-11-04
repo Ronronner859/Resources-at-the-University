@@ -49,3 +49,6 @@ https://gitee.com/kuangstudy/kuang_livenote#https://www.bilibili.com/video/BV1DJ
 https://space.bilibili.com/12890453
 # 鲍勃
 https://github.com/TRHX
+
+# [廖雪峰](https://www.liaoxuefeng.com/)
+[git学习](https://www.liaoxuefeng.com/wiki/896043488029600)
