@@ -33,6 +33,9 @@ https://blog.csdn.net/weixin_57242009/category_11632898.html?spm=1001.2014.3001.
 pdf转word:https://online.rightpdf.com/cn/word-to-pdf
 PDF 转 Markdown 的网址：https://pdf2md.morethan.io/
 
+## IDEA高效办公
+插件：https://plugins.jetbrains.com/
+
 ## 文档编辑
 docsify:https://docsify.js.org/#/zh-cn/
 
